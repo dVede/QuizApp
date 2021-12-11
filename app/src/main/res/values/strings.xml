@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="logo_of_app">Logo of app</string>
+    <string name="characters6">6 characters</string>
+    <string name="empty">Empty!</string>
+</resources>
